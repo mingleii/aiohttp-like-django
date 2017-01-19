@@ -1,0 +1,1 @@
+recursive-include aiohttp_like_django *.py

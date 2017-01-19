@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: aiohttp-like-django
+Version: 1.0.1
+Summary: Coding aiohttp like django
+Home-page: UNKNOWN
+Author: minglei.weng
+Author-email: minglei.weng@smallsite.cn
+License: Apache 2
+Description: You can coding aiohttp like django
+Keywords: aiohttp,django
+Platform: any
